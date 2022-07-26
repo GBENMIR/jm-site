@@ -1,4 +1,5 @@
 ---
+
 # Display name
 title: Ghassane Benmir
 
@@ -54,7 +55,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:g.benmir@lse.ac.uk".
+  link: mailto:g.benmir@lse.ac.uk
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/twitter_handle
@@ -79,6 +80,7 @@ email: ""
 #user_groups:
 #- Researchers
 #- Visitors
+
 ---
 I am a researcher and teaching fellow at the London School of Economics and Political Science (LSE) and Paris Sciences et Lettres (PSL Research). 
 
