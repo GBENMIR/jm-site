@@ -84,6 +84,8 @@ email: ""
 ---
 I am a researcher and teaching fellow at the London School of Economics and Political Science (LSE) and Paris Sciences et Lettres (PSL Research). 
 
+I will be on the Economics and Finance Job Markets next December 2022.
+
 My **JOB MARKET PAPER** can be found [HERE](files/job-market-paper.pdf)
 
 **Latest News!**
