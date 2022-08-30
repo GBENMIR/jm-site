@@ -17,6 +17,7 @@ weight = 120
 
 ### London School of Economics 
 ## Teaching Fellow
+- EC400 (Math for Micro and Macro): Michaelmas 2022.
 - EC1B3 (Macroeconomics): Lent 2021, 2022. 
 - EC1B5 (Macroeconomics): Lent 2022. 
 
