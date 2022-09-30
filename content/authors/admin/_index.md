@@ -29,7 +29,7 @@ bio: I am a researcher and teaching fellow at the London School of Economics and
 interests:
 - Macroeconomic theory and heterogeneity
 - Asset pricing theory
-- Climate change, and distributional impacts of both environmental externalities and policy.
+- Climate change: uncertainty and distributional impacts of both environmental externalities and policy.
  
 
 education:
