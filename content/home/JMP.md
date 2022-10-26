@@ -66,7 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-[The Distributional Costs of Net-Zero: A HANK Perspective.](files/job-market-paper.pdf)  
+[The Distributional Costs of Net-Zero: A Heterogeneous Agent Perspective.](files/job-market-paper.pdf)  
 
 Poster [Here](files/poster.pdf)
 
