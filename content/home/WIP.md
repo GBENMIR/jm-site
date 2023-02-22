@@ -17,5 +17,4 @@ weight = 110
 - California Carbon Market: A Macro-Finance Perspective.
 - 'r star' under the presence of the climate externality.
 -  Weitzman Meets Taylor: ETS Futures Drivers and Smart Pricing Policy. With [J. Roman](https://sites.google.com/view/josselinroman/about?authuser=0) and [L. Taschini](https://www.lse.ac.uk/granthaminstitute/profile/luca-taschini/).
-- Macroeconomic policy responses to the Covid-19 cycle. With [I. Jaccard](https://sites.google.com/site/ivanjaccard/home) and [G. Vermandel](https://vermandel.fr/the-author/).
 
