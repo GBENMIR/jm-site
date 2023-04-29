@@ -16,6 +16,7 @@ weight = 100
 +++
 - [Green Asset Pricing (2022)](files/Green_asset_pricing_vJuly2022.pdf). With [I. Jaccard](https://sites.google.com/site/ivanjaccard/home) and [G. Vermandel](https://vermandel.fr/the-author/). (R&R: Journal of Finance)
 - [Optimal Monetary Policy in an Estimated SIR Model (2022)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4262441). With [I. Jaccard](https://sites.google.com/site/ivanjaccard/home) and [G. Vermandel](https://vermandel.fr/the-author/). (R&R: European Economic Review)
+-  Weitzman Meets Taylor: ETS Futures Drivers and Smart Pricing Policy. With [J. Roman](https://sites.google.com/view/josselinroman/about?authuser=0) and [L. Taschini](https://www.lse.ac.uk/granthaminstitute/profile/luca-taschini/). [Upon request](mailto:g.benmir@lse.ac.uk)
 - Macro-finance, Uncertainty, and Climate Change (2021). [Upon request](mailto:g.benmir@lse.ac.uk)
 - Endogenous Abatement Technology (2021). With [J. Roman](https://sites.google.com/view/josselinroman/about?authuser=0). [Upon request](mailto:g.benmir@lse.ac.uk).
 - [Policy Interactions and the Transition to Clean Technology (2020)](files/Policy_Interaction_vJuly2022.pdf). With [J. Roman](https://sites.google.com/view/josselinroman/about?authuser=0).

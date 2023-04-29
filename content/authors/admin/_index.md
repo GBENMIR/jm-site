@@ -11,7 +11,8 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate
+#role: Assistant Professor
+role: PhD.
 
 # Organizations/Affiliations
 organizations:
@@ -84,9 +85,9 @@ email: ""
 ---
 I am a researcher and teaching fellow at the London School of Economics and Political Science (LSE) and Paris Sciences et Lettres (PSL Research). 
 
-I will be on the Economics and Finance Job Markets next December 2022.
+#I will be on the Economics and Finance Job Markets next December 2022.
 
-My **JOB MARKET PAPER** can be found [HERE](files/job-market-paper.pdf)
+My **JMP** can be found [HERE](files/job-market-paper.pdf)
 
 **Latest News!**
 - I am honored to be selected as the Runner-Up of the 2022 QCGBF Young Economist Prize Award.

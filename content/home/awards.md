@@ -24,6 +24,6 @@ weight = 130
 - Grantham Research Institute on Climate Change and the Environment - LSE PhD Scholarship (2019-2023).
 - PSL Research – University of Paris Dauphine Best MRes Economics Thesis (2017).
 - PSL Research – University of Paris Dauphine MRes Economics Best Overall Performance (2017).
-- Moroccan Ministry of Higher Education & Scientific Research Graduates Honors Scholarship (2011-2014).
+- Ministry of Higher Education & Scientific Research Graduates Honors Scholarship (2011-2014).
 - Institut Mines – Télécom Graduates Honors Scholarship (for the academic year of 2010-2011).
 
