@@ -11,13 +11,17 @@ authors:
 superuser: true
 
 # Role/position
-#role: Assistant Professor
-role: PhD.
+role: Assistant Professor and Research Fellow
+#role: PhD.
 
 # Organizations/Affiliations
 organizations:
+- name: IE
+  url: "https://www.ie.edu/"
 - name: London School of Economics
   url: "https://www.lse.ac.uk/"
+- name: King's Business School
+  url: "https://www.kcl.ac.uk/business"
 - name: PSL Research
   url: "https://psl.eu/en"
 
@@ -35,18 +39,18 @@ interests:
 
 education:
   courses:
-  - course: MSc. and MPhil (majoring in environmental and climate change economics)
+  - course: MSc, MPhil, and PhD (majoring in environmental and climate change economics)
     institution:  LSE 
-    year: 2019  
-  - course: MSc. and MRes (majoring in financial and monetary economics)
+    #year: 2019  
+  - course: MSc, MRes, and PhD (majoring in financial and monetary economics)
     institution:  PSL Research 
-    year: 2018  
-  - course: MSc. in Engineering of Information Systems
+    #year: 2018  
+  - course: MSc in Engineering of Information Systems
     institution: Institut Mines - Telecom
-    year: 2013
-  - course: BSc. in  Mathematics and Physics
+    #year: 2013
+  - course: BSc in  Mathematics and Physics
     institution: Classes Préparatoires Faidherbe
-    year: 2009
+    #year: 2009
 
 
 # Social/Academic Networking
@@ -83,7 +87,9 @@ email: ""
 #- Visitors
 
 ---
-I am a researcher and teaching fellow at the London School of Economics and Political Science (LSE) and Paris Sciences et Lettres (PSL Research). 
+I am an Assistant Professor of Economics at IE University and IE Business School. I am also an associate fellow at the London School of Economics and Political Science (LSE), King's College Business School, and Paris Sciences et Lettres (PSL Research). My research explores the linkages between macroeconomic theory and heterogeneity, asset pricing theory, climate change, and the distributional impacts of both environmental externalities and policy.
+
+#I am a researcher and teaching fellow at the London School of Economics and Political Science (LSE) and Paris Sciences et Lettres (PSL Research). 
 
 My **JMP** can be found [HERE](files/job-market-paper.pdf)
 
