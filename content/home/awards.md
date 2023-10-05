@@ -11,7 +11,7 @@ title = "Selected Awards"
 
 
 # Order that this section will appear in.
-weight = 130
+weight = 150
 
 +++
 - QCGBF Best Young Economist Prize Runner-up (2022) – (1000 pounds).

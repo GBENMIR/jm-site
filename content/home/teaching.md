@@ -11,12 +11,22 @@ title = "Teaching"
 #subtitle = "Average instructor rating: 4.8/5"
 
 # Order that this section will appear in.
-weight = 120
+weight = 140
 
 +++
+### IE University and Business School
+## Lecturer
+- Introductory Macroeconomics, Autumn Term, 2023.
+- Computational Macroeconomics, Autumn Term, 2023.
+- Environmental and Climate Change Economics, 2023.
+
+### PSL Research -- Université Paris Dauphine
+## Lecturer
+- Advanced Macroeconomics -- Bayesian Techniques, Autumn Term, 2023.
 
 ### London School of Economics 
 ## Teaching Fellow
+- EC102 (Macroeconomics): Summer School 2023.
 - EC400 (Math for Micro and Macro): Michaelmas 2022.
 - EC1B3 (Macroeconomics): Lent 2021, 2022. 
 - EC1B5 (Macroeconomics): Lent 2022. 
