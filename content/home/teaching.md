@@ -18,7 +18,7 @@ weight = 140
 ## Lecturer
 - Introductory Macroeconomics, Autumn Term, 2023.
 - Computational Macroeconomics, Autumn Term, 2023.
-- Environmental and Climate Change Economics, 2023.
+- Environmental and Climate Change Economics, Autumn Term, 2023.
 
 ### PSL Research -- Université Paris Dauphine
 ## Lecturer

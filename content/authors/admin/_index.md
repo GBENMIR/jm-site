@@ -60,7 +60,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:g.benmir@lse.ac.uk
+  link: mailto:ghassane.benmir@ie.edu
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/twitter_handle
