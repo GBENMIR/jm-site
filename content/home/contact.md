@@ -21,9 +21,3 @@ email_form = 0
 [netlify]
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
 +++
-
-## Address
-Test
-
-## Email
-[your@email.com](mailto:your@email.com)
