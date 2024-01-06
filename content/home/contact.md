@@ -1,8 +1,8 @@
 +++
 # Contact widget.
 widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
-active = false  # Activate this widget? true/false
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
 weight = 170  # Order that this section will appear.
 
 title = "Contact"
@@ -23,8 +23,3 @@ email_form = 0
   
 +++
 
-## Address
-Calle de Maria de Molina
-
-## Email
-ghassane[dot]benmir[at]ie[dot]edu
