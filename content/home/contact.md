@@ -2,20 +2,20 @@
 # Contact widget.
 widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 170  # Order that this section will appear.
 
 title = "Contact"
 subtitle = ""
 
 # Automatically link email and phone?
-autolink = false # true
+autolink = false 
 
 # Email form provider
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 2
+email_form = 0
 
 # Netlify form settings.
 [netlify]
@@ -26,4 +26,4 @@ email_form = 2
 Calle de Maria de Molina
 
 ## Email
-[ghassane[dot]benmir[at]ie[dot]edu](mailto:ghassane.benmir@ie.edu)
+ghassane[dot]benmir[at]ie[dot]edu
