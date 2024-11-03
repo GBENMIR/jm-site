@@ -14,6 +14,9 @@ title = "Selected Awards"
 weight = 150
 
 +++
+- IE Excellence in Teaching Award (2024) - Environmental Economics. 
+- IE Excellence in Teaching Award (2024) - Computational Macroeconomics.
+- IE Excellence in Teaching Award (2024) - Introduction to Macroeconomics.
 - QCGBF Best Young Economist Prize Runner-up (2022) – (1000 pounds).
 - LSE Department of Economics - Highly Commended Teaching Award (2022) – Amount undisclosed.
 - The European Finance Association Best Paper Prize in Responsible Finance Award (2021) - 3000 euros.
