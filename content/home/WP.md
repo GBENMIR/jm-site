@@ -19,4 +19,4 @@ weight = 120
 - [Weitzman Meets Taylor: EU Allowances Futures Price Drivers and Carbon Cap Rule (2024)](files/ETS_Drivers_and_CPI.pdf). With [J. Roman](https://jossroman.com/) and [L. Taschini](https://www.business-school.ed.ac.uk/staff/luca-taschini). (Submitted)
 - [Unveiling the Green Equity Premium: A Macro-Financial Outlook (2024)](files/Greenium_Puzzle.pdf). With [A. Mori](https://www.kcl.ac.uk/people/aditya-mori), [R. Bidder](https://www.rhysmichaelbidder-economist.com/), [S. Maso](https://www.kcl.ac.uk/people/simone-maso), and [J. Roman](https://jossroman.com/).
 - [The redistributive effects of sectoral shocks (2024)](files/HA_IO_Paper.pdf). With [C. Poirier](https://www.comepoirier.fr/).
-- [Policy Interactions and the Transition to Clean Technology (2020)](files/Policy_Interaction_vJuly2022.pdf). With [A. Raja](https://www.akashraja.com/) and [J. Roman](https://jossroman.com/).
+- [Policy Interactions and the Transition to Clean Technology (2024)](files/Policy_Interaction_vJuly2022.pdf). With [A. Raja](https://www.akashraja.com/) and [J. Roman](https://jossroman.com/).
