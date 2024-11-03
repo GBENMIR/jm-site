@@ -89,7 +89,7 @@ email: ""
 #- Visitors
 
 ---
-I am an Assistant Professor of Economics at IE University and IE Business School. I am also an associate fellow at the London School of Economics and Political Science (LSE), King's College Business School, and Paris Sciences et Lettres (PSL Research). My research explores the linkages between macroeconomic theory and heterogeneity, asset pricing theory, climate change, and the distributional impacts of both environmental externalities and policy.
+I am an Assistant Professor of Economics at IE University and IE Business School. I am also an associate fellow at the London School of Economics and Political Science (LSE), King's College Business School, Paris Sciences et Lettres (PSL Research), and UM6P. My research explores the linkages between macroeconomic theory and heterogeneity, asset pricing theory, climate change, and the distributional impacts of both environmental externalities and policy.
 
 My **JMP** can be found [HERE](files/job-market-paper.pdf)
 
