@@ -14,8 +14,9 @@ title = "Working Papers"
 weight = 120
 
 +++
-- [Green Asset Pricing (2022)](files/Green_asset_pricing_v2024.pdf). With [I. Jaccard](https://sites.google.com/site/ivanjaccard/home) and [G. Vermandel](https://vermandel.fr/the-author/). (R&R: Journal of Finance)
--  [Weitzman Meets Taylor: EU Allowances Futures Price Drivers and Carbon Cap Rule (2023)](files/BRT_ETS_Price.pdf). With [J. Roman](https://jossroman.com/) and [L. Taschini](https://www.lse.ac.uk/granthaminstitute/profile/luca-taschini/). 
-- Endogenous Abatement Technology (2021). With [J. Roman](https://jossroman.com/). [Upon request](mailto:ghassane.benmir@ie.edu).
-- [Policy Interactions and the Transition to Clean Technology (2020)](files/Policy_Interaction_vJuly2022.pdf). With [J. Roman](https://jossroman.com/).
-- Underground Transportation and House Prices in Suburban Paris (2019). Pre-PhD Unpublished Work. [Upon request](mailto:g.benmir@lse.ac.uk)
+- [Green Asset Pricing (2024)](files/Green_asset_pricing_v2024.pdf). With [I. Jaccard](https://sites.google.com/site/ivanjaccard/home) and [G. Vermandel](https://vermandel.fr/the-author/). (R&R: Journal of Finance)
+- [Beneath the Trees: The Influence of Natural Capital on Shadow Price Dynamics in a Macroeconomic Model with Uncertainty (2024)](files/JEEM_Natural_Capital.pdf). With [A. Mori](https://www.kcl.ac.uk/people/aditya-mori), [J. Roman](https://jossroman.com/), and [R. Tarsia](https://www.lse.ac.uk/geography-and-environment/people/phd-students/romano-tarsia). (Submitted)
+- [Weitzman Meets Taylor: EU Allowances Futures Price Drivers and Carbon Cap Rule (2024)](files/BRT_ETS_Price.pdf). With [J. Roman](https://jossroman.com/) and [L. Taschini](https://www.lse.ac.uk/granthaminstitute/profile/luca-taschini/). (Submitted)
+- [Unveiling the Green Equity Premium: A Macro-Financial Outlook (2024)](files/Greenium_Puzzle.pdf). With [A. Mori](https://www.kcl.ac.uk/people/aditya-mori), [R. Bidder](https://www.rhysmichaelbidder-economist.com/), [S. Maso](https://www.kcl.ac.uk/people/simone-maso), and [J. Roman](https://jossroman.com/).
+- [The redistributive effects of sectoral shocks (2024)](files/HA_IO_Paper.pdf). With [C. Poirier](https://www.comepoirier.fr/).
+- [Policy Interactions and the Transition to Clean Technology (2020)](files/Policy_Interaction_vJuly2022.pdf). With [A. Raja](https://www.akashraja.com/) and [J. Roman](https://jossroman.com/).
