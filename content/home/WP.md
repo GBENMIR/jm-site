@@ -14,6 +14,7 @@ title = "Working Papers"
 weight = 120
 
 +++
+- [The Distributional Costs of Net-Zero: A Heterogeneous Agent Perspective (2024).](files/job-market-paper.pdf). With [J. Roman](https://jossroman.com/)
 - [Green Asset Pricing (2024)](files/Green_asset_pricing_v2024.pdf). With [I. Jaccard](https://sites.google.com/site/ivanjaccard/home) and [G. Vermandel](https://vermandel.fr/the-author/). (R&R: Journal of Finance)
 - [Beneath the Trees: The Influence of Natural Capital on Shadow Price Dynamics in a Macroeconomic Model with Uncertainty (2024)](files/JEEM_Natural_Capital.pdf). With [A. Mori](https://www.kcl.ac.uk/people/aditya-mori), [J. Roman](https://jossroman.com/), and [R. Tarsia](https://www.lse.ac.uk/geography-and-environment/people/phd-students/romano-tarsia). (Submitted)
 - [Weitzman Meets Taylor: EU Allowances Futures Price Drivers and Carbon Cap Rule (2024)](files/ETS_Drivers_and_CPI.pdf). With [J. Roman](https://jossroman.com/) and [L. Taschini](https://www.business-school.ed.ac.uk/staff/luca-taschini). (Submitted)

@@ -42,7 +42,7 @@ interests:
 education:
   courses:
   - course: MSc, MPhil, and PhD (majoring in environmental and climate change economics)
-    institution:  LSE 
+    institution:  The London School of Economics and Political Science 
     #year: 2019  
   - course: MSc, MRes, and PhD (majoring in financial and monetary economics)
     institution:  PSL Research 
@@ -90,8 +90,3 @@ email: ""
 
 ---
 I am an Assistant Professor of Economics at IE University and IE Business School. I am also an associate fellow at the London School of Economics and Political Science (LSE), King's College Business School, Paris Sciences et Lettres (PSL Research), and UM6P. My research explores the linkages between macroeconomic theory and heterogeneity, asset pricing theory, climate change, and the distributional impacts of both environmental externalities and policy.
-
-My **JMP** can be found [HERE](files/job-market-paper.pdf)
-
-**Latest News!**
-- I am honored to be selected as the Runner-Up of the 2022 QCGBF Young Economist Prize Award.
