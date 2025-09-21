@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor and Research Fellow
+role: Assistant Professor
 #role: PhD.
 
 # Organizations/Affiliations
