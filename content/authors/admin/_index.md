@@ -20,8 +20,8 @@ organizations:
   url: "https://www.ie.edu/"
 #- name: London School of Economics
 #  url: "https://www.lse.ac.uk/"
-- name: King's Business School
-  url: "https://www.kcl.ac.uk/business"
+#- name: King's Business School
+#  url: "https://www.kcl.ac.uk/business"
 #- name: PSL Research
 #  url: "https://psl.eu/en"
 #- name: UM6P
