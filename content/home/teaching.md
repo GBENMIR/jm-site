@@ -14,20 +14,11 @@ title = "Teaching"
 weight = 140
 
 +++
-### IE University and Business School
+### IE University
 ## Lecturer
 - Introductory Macroeconomics (BSc Economics), Autumn Term, 2023, 2024.
 - Computational Macroeconomics (BSc Economics), Autumn Term, 2023, 2024.
 - Environmental and Climate Change Economics (BSc Economics), Autumn Term, 2023, 2024.
-
-### PSL Research -- Université Paris Dauphine
-## Lecturer
-- Advanced Macroeconomics (MRes/PhD Quantitative Economics) -- Bayesian Techniques, Autumn Term, 2023, 2024.
-
-### UM6P - FGSES
-## Lecturer
-- Advanced Topics in Development (MRes/PhD Economics), Autumn Term, 2024.
-- Macroeconomics II (MRes Quantitative Economics), Spring Term, 2025.
 
 ### London School of Economics 
 ## Teaching Fellow
